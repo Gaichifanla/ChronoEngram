@@ -1,0 +1,11 @@
+target/
+data/
+*.class
+.idea/
+
+# Python semantic sidecar
+semantic-service/.venv/
+semantic-service/__pycache__/
+semantic-service/**/__pycache__/
+semantic-service/.env
+semantic-service/.pytest_cache/
